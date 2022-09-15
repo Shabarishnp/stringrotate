@@ -1,1 +1,1 @@
-# stringrotate
+# program to string rotate
